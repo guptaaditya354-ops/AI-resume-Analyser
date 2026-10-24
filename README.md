@@ -59,8 +59,6 @@ Open the URL shown in the terminal (usually http://localhost:5173).
 
 > On Windows you can also run `run_app.bat` to start everything together.
 
-## Screenshots
-_Add 1-2 screenshots here (upload page + analysis result)._
 
 ## Future Improvements
 - Job description matching (resume vs JD score)
